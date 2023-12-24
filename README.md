@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... i dont know
 - 🌱 I’m currently learning ... Python 
 - 💞️ I’m looking to collaborate on ... python
-- 📫 How to reach me ... i dont know
+- 📫 How to reach me ... if you know me then just call me 
 - 
 
 <!---
