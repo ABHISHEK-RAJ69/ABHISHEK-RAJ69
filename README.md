@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ABHISHEK-RAJ69
 - 👀 I’m interested in ... i dont know
-- 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ... python
-- 📫 How to reach me ... if you know me then just call me 
+- 🌱 I’m currently learning ... front-end-devlopment
+- 💞️ I’m looking to collaborate on ... front-end-devlopment
+- 📫 How to reach me ... no one can  
 - 
 
 <!---
