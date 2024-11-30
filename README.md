@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ABHISHEK-RAJ69
-- 👀 I’m interested in ... i dont know
-- 🌱 I’m currently learning ... front-end-devlopment
-- 💞️ I’m looking to collaborate on ... front-end-devlopment
-- 📫 How to reach me ... no one can  
+- 👀 I’m interested in ... collaboration 
+- 🌱 I’m currently learning ... front-end-devlopment and Java
+- 💞️ I’m looking to collaborate on ... front-end-devlopment and Java 
+- 📫 How to reach me ... 
+-https://www.linkedin.com/in/abhishek-raj-6a92222b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 
 
 <!---
